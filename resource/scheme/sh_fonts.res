@@ -2947,7 +2947,7 @@
 		"4" 
 		{
 			"font" "resource/TF2Secondary.ttf"
-			"name" "Lexend SemiBold"
+			"name" "TF2 Secondary"
 			"russian"
 			{
 				"range" "0x0000 0xFFFF"
@@ -2973,7 +2973,7 @@
 		"6" 
 		{
 			"font" "resource/TF2Build.ttf"
-			"name" "Lexend SemiBold"
+			"name" "TF2 Build"
 			"russian"
 			{
 				"range" "0x0000 0xFFFF"
@@ -3062,10 +3062,12 @@
 		"10"
 		{
 			"font" "resource/scheme/fonts/Lexend-ExtraBold.ttf"
+			"name" "Lexend Extrabold"
 		}
 		"11"
 		{
 			"font" "resource/scheme/fonts/Lexend-Black.ttf"
+			"name" "Lexend Black"
 		}
 		"12"
 		{
