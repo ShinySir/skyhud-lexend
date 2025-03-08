@@ -42,5 +42,5 @@ If you happen to need extra help, you can contact me on discord @skaideer or you
 - **References & Guides**: Doodle, Jarateking, Rays, Flame.
 
 ## Also check out other huds that use Lexend Font
-- **[toucaHUD](https://github.com/toucaknight/toucaHUD)
-- **[HExHUD](https://github.com/Hypnootize/hexhud)
+- **[toucaHUD](https://github.com/toucaknight/toucaHUD)**
+- **[HExHUD](https://github.com/Hypnootize/hexhud)**
